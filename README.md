@@ -1,8 +1,5 @@
 # Crypto_Risk_Analysis
 
-# Create the content for README.md
-readme_content = """# Crypto Risk Analysis
-
 This project analyzes the risk and return of cryptocurrencies using quantitative techniques such as the Sharpe Ratio and Monte Carlo simulations. It is built using Python and runs in the PyCharm IDE, with PostgreSQL used as the backend database.
 
 ## 📊 Project Overview
